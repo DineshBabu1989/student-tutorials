@@ -7,8 +7,9 @@
 
   ```
 
-- Setting up tailwind
+- Setting up tailwind 
 
-```
-https://tailwindcss.com/docs/guides/vite
-```
+  ```
+   https://tailwindcss.com/docs/guides/vite
+  ```
+  please set up tailwind by following the guide
